@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 Library Management System
 
 A clean, well-structured **Java console application** demonstrating core OOP concepts — ideal for fresher resumes.
@@ -82,3 +83,6 @@ java -cp out com.library.main.LibraryApp
 - Designed **layered architecture** separating model, service, and UI layers
 - Used **Java Streams and Lambda** for search and filter operations
 - Handled **business logic** for book borrowing/returning with validations
+=======
+# Library-Management-System
+>>>>>>> 062e286cd37725cbc8afbe0e7bec2ec5a057088d
